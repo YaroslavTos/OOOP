@@ -1,0 +1,6 @@
+D:\Desktop\практика ОООП 2020\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+D:\Desktop\практика ОООП 2020\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+D:\Desktop\практика ОООП 2020\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+D:\Desktop\практика ОООП 2020\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+D:\Desktop\практика ОООП 2020\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+D:\Desktop\практика ОООП 2020\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
