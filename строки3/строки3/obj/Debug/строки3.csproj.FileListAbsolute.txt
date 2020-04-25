@@ -1,0 +1,7 @@
+D:\Desktop\практика ОООП 2020\строки3\строки3\bin\Debug\строки3.exe.config
+D:\Desktop\практика ОООП 2020\строки3\строки3\bin\Debug\строки3.exe
+D:\Desktop\практика ОООП 2020\строки3\строки3\bin\Debug\строки3.pdb
+D:\Desktop\практика ОООП 2020\строки3\строки3\obj\Debug\строки3.csprojAssemblyReference.cache
+D:\Desktop\практика ОООП 2020\строки3\строки3\obj\Debug\строки3.csproj.CoreCompileInputs.cache
+D:\Desktop\практика ОООП 2020\строки3\строки3\obj\Debug\строки3.exe
+D:\Desktop\практика ОООП 2020\строки3\строки3\obj\Debug\строки3.pdb
